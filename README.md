@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **leetcode and web development**
 
-- 💬 Ask me about **C++t, Python**
+- 💬 Ask me about **C++, Python**
 
 - 📫 How to reach me **zohadijaz786@gmail.com or +923038274652**
 
