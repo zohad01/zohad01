@@ -1,5 +1,12 @@
 # About Me:
-AI Engineer (in progress) | MERN Developer | Tech Mentor<br>Exploring AI-first applications, multi-agent systems, and MERN stack development. Passionate about problem-solving, teaching Python & DSA, and guiding peers with clear, practical roadmaps.<hr>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=zohad01&color=blue" alt="Profile Views"/>
+</div>
+
+#### AI Engineer (in progress) | MERN Developer | Tech Mentor
+Exploring AI-first applications, multi-agent systems, and MERN stack development. Passionate about problem-solving, teaching Python & DSA, and guiding peers with clear, practical roadmaps.<hr>
+
+
 * [LeetCode](https://leetcode.com/u/zohadijaz/): Solved 100+ DSA problems  
 * [iCodeGuru](https://icode.guru/): Volunteer Python & DSA teacher, mentoring peers  
 * [MITIT Coding Competition](https://www.linkedin.com/posts/muhammad-zohad-ijaz-7273b52b1_mit2-programmingcontest-teamcodewarriors-activity-7287012576188596224-4aL-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr81M8BzuzoL-J3ARc8sVo-Cnkf7hNwOSo): Ranked 105 in MITIT Coding Competition
@@ -57,13 +64,39 @@ AI Engineer (in progress) | MERN Developer | Tech Mentor<br>Exploring AI-first a
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zohad01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zohad01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zohad01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 📊 My Coding Stats  
+
+<table>
+  <tr>
+    <td>
+      <h3>🔥 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=zohad01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=zohad01&theme=dark&hide_border=false&ring=0000FF&currStreakLabel=0000FF&fire=0000FF" alt="GitHub Streak"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohad01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+    </td>
+    <td>
+      <h3>🧩 LeetCode Stats</h3>
+      <img src="https://leetcard.jacoblin.cool/zohadijaz?theme=dark&font=Baloo%20Bhai&ext=activity" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=zohad01&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
+
+
+
+![Zohad’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zohad01&theme=github-dark)
+
+
+
