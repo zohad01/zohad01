@@ -1,48 +1,69 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zohad Ijaz and I'm Programmer from Pakistan</h1>
-<h3 align="center">Pursuing BS in Computer Science | DSA Learner | LeetCode Enthusiast | Hands on programming knowledge | Passionate Web Developer</h3>
+# About Me:
+AI Engineer (in progress) | MERN Developer | Tech Mentor<br>Exploring AI-first applications, multi-agent systems, and MERN stack development. Passionate about problem-solving, teaching Python & DSA, and guiding peers with clear, practical roadmaps.<hr>
+* [LeetCode](https://leetcode.com/u/zohadijaz/): Solved 100+ DSA problems  
+* [iCodeGuru](https://icode.guru/): Volunteer Python & DSA teacher, mentoring peers  
+* [MITIT Coding Competition](https://www.linkedin.com/posts/muhammad-zohad-ijaz-7273b52b1_mit2-programmingcontest-teamcodewarriors-activity-7287012576188596224-4aL-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr81M8BzuzoL-J3ARc8sVo-Cnkf7hNwOSo): Ranked 105 in MITIT Coding Competition
+* [CS50x Puzzle Day](https://www.linkedin.com/posts/muhammad-zohad-ijaz-7273b52b1_cs50x-puzzleday2025-harvarduniversity-activity-7316762605543460864-fu5u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr81M8BzuzoL-J3ARc8sVo-Cnkf7hNwOSo): Solved 9/9 puzzles in Harvard's CS50x puzzle day.
+* Teaching Style: Watch my recorded sessions → [Link](https://github.com/zohad01/Volunteer_Teaching_Recordings)  
+* Typing Speed: 90+ WPM  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zohad01&label=Profile%20views&color=0e75b6&style=flat" alt="zohad01" /> </p>
 
+<h2 align="center"> Connect with me </h2>
+<p align="center">
+  <a href="https://discord.gg/zohad_51118"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+  <a href="https://www.facebook.com/zohadjutt01"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/zohad_ijaz_/?next=%2F"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-zohad-ijaz-7273b52b1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.pinterest.com/zohadijaz/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/></a>
+  <a href="https://tiktok.com/@zohadijaz"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/></a>
+  <a href="mailto:zohadijaz786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohad01" alt="zohad01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/zohadijaz" target="blank"><img src="https://img.shields.io/twitter/follow/zohadijaz?logo=twitter&style=for-the-badge" alt="zohadijaz" /></a> </p>
-   
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+<h2 align="center"> Tech Stack </h2>
+<p align="center">
   
-- 🌱 I’m currently learning **leetcode and web development**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 💬 Ask me about **C++t, Python**
-
-- 📫 How to reach me **zohadijaz786@gmail.com or +923038274652**
-
-- ⚡ Fun fact **Programmer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align="right" height="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWkyeXR1NjFnYjFjMDk0ZGU1aXh2MWtuNzNjb3Z1OXF0dHc2aGtxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif"  />
-<a href="https://twitter.com/zohadijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zohadijaz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zohad_ijaz_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/zohad_5118" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="zohadijaz786@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-
-<a href="https://linkedin.com/in/muhammadzohadijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadzohadijaz" height="30" width="40" /></a>
-<a href="https://fb.com/zohadijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zohadijaz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zohadijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zohadijaz" height="30" width="40" /></a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zohad01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zohad01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zohad01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohad01&show_icons=true&locale=en&layout=compact" alt="zohad01" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zohad01&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohad01&show_icons=true&locale=en" alt="zohad01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohad01&" alt="zohad01" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
